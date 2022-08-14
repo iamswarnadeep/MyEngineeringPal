@@ -11,7 +11,7 @@ This is a question answer portal like quora where anyone can ask questions and a
 1. Unzip the compressed package on your webserver's home (public_html/www) directory.
 2. Create a database on your system and add the credentials to /assets/includes/config.php file.
 3. Import the sql file from /SQL import/Database.sql.zip to the database using your phpmyadmin > Select the Database > import > Go. 
-4. 🎉Enjoy! Your setup is complete.🎊
+4. 🎉Enjoy! Your setup is complete.
 ## Admin Details
 > Email: admin@gmail.com
 
