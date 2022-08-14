@@ -18,7 +18,7 @@ This is a question answer portal like quora where anyone can ask questions and a
 > Username: admin
 
 > Password: newuser@gmail.com
-# Created & Developed by
+## Created & Developed by
 - [Swarnadeep Karmakar](https://www.linkedin.com/in/iamswarnadeep/)
 - [Ankesh Halder](https://www.linkedin.com/in/ankesh-halder-6b5556243/) 
 - [Sk Nawaj Uddin](https://www.linkedin.com/in/sk-nawaj-uddin7878/)
