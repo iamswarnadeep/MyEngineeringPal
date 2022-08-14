@@ -1,6 +1,7 @@
 # TINT forum
-**Live Link:** [https://www.tintforum.ml](https://www.tintforum.ml)
-**Description:** This is a question answer portal like quora where anyone can ask questions and anyone can write the answers of the posted question. Also users can up-vote & down-vote any answer. 
+This is a question answer portal like quora where anyone can ask questions and anyone can write the answers of the posted question. Also users can up-vote & down-vote any answer. 
+## Live Link
+[https://www.tintforum.ml](https://www.tintforum.ml)
 ## Requirements
 - Linux OS
 - Apache webserver
