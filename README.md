@@ -1,23 +1,18 @@
-# TINT forum
-This is a question answer portal like quora where anyone can ask questions and anyone can write the answers of the posted question. Also users can up-vote & down-vote any answer. 
+# MyEngineeringPal
+This is a question answer forum like quora where anyone can ask questions and anyone can write the answers of the posted question. Also users can up-vote & down-vote any answer. 
 ## Live Link
-[https://www.tintforum.ml](https://www.tintforum.ml)
+[https://www.myengineeringpal.ml](https://www.myengineeringpal.ml)
 ## Requirements
 - Linux OS
 - Apache webserver
 - PHP 7.0+
 - mySQL
 ## Setup
-1. Unzip the compressed package on your webserver's home (public_html/www) directory.
-2. Create a database on your system and add the credentials to /assets/includes/config.php file.
-3. Import the sql file from /SQL import/Database.sql.zip to the database using your phpmyadmin > Select the Database > import > Go. 
-4. 🎉Enjoy! Your setup is complete.
-## Admin Details
-> Email: admin@gmail.com
-
-> Username: admin
-
-> Password: newuser@gmail.com
+**Setup is easy as drinking water.** \
+Unzip the compressed file on your site directory and open your domain/ip using any browser. \
+Our system will automatically redirect to installation setup. \
+Then follow the instructions carefully. \
+🎉Enjoy! Your setup is complete.
 ## Created & Developed by
 - [Swarnadeep Karmakar](https://www.linkedin.com/in/iamswarnadeep/)
 - [Ankesh Halder](https://www.linkedin.com/in/ankesh-halder-6b5556243/) 
