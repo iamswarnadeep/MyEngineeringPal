@@ -112,18 +112,12 @@ body {
   padding: 0 20px;
 }
 
-/*
 .site-wrapper {
 background: url('../img/background.jpg') no-repeat   center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-}
-*/
-
-.site-wrapper {
-background: #4c78e8;
 }
 
 .cover .btn-lg {
