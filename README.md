@@ -8,7 +8,7 @@ This is a question-answer forum like quora where anyone can ask questions and an
 - PHP 7.0+
 - MySQL
 ## Setup
-**Setup is easy as drinking water.** \
+**The setup is easy like drink water.** \
 Unzip the compressed file on your site directory and open your domain/ip using any browser. \
 Our script will automatically redirect to installation setup. \
 Then follow the instructions carefully. \
